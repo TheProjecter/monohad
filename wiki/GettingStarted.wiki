@@ -1,0 +1,20 @@
+#summary How to get started with monohad.
+#labels Phase-Deploy,Featured
+
+= Introduction =
+
+The application is fully contained and can be used with Max5 runtime (available here: http://www.cycling74.com/downloads/max5). 
+
+
+= Details =
+
+In order to get started, the following activities need to be done.
+
+ #*Download application and install Max environment*
+ #*Create LOOPS folder within Max5 application directory and put your loops there*
+ #*Create SAMPLES folder within Max5 application directory and put your drumsequencer samples there*
+ #*Start application*
+ #*Hit Esc or use mouse (rectangle at the bottom) to start the DSP
+ #*Click into one of the channels to start or use monome (see Monome64Mapping)
+
+ 
