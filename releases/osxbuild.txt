@@ -1,0 +1,1 @@
+open thispatcherfolder "maxi me:/Applications/Max5/myown/msp/monohad/MIDI"
