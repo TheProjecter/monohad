@@ -3,12 +3,83 @@
 
 = Introduction =
 
-Add your content here.
+One of the main additional features of monohad is the ability to be (almost) fully controlled by a monome interface (http://monome.org) including faders.  The current mapping is detailed below.
+
+Subject to changes, so check back here often. 
 
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+In order to map the extensive functionality onto monome, the following page design has been implemented.
+
+  * *row 1:*.........control row
+  * *row 2:*.........sub control row
+  * *row 3-8:*.......work space
+
+== control row ==
+
+The control row is used for switching pages. It supports up to 15 pages at the moment. 
+
+  * _button x_...................page x    (x=1..8)
+  * _button 1 + button y_........page 7+y  (y=2..8)
+
+In order to activate pages > 8, you have to keep the first button pressed, while pressing the second one. If _button 1_ isn't pressed, the double press is ignored.
+
+== sub control row ==
+
+The sub control row is page specific and therefore changes (like the workspace) when changing pages.
+
+  * _button 1-4_............pattern recorder (not supported yet)
+  * _button 5-7_............vertical scroll (0..3 rows)
+  * _button 8_..............horizontal scroll (0/8 columns)
+
+Vertical scroll depends on the number of _buttons 5-7_ pressed.
+
+== work space ==
+
+The work space is where all the action happens, each page has been assigned a specific meaning as follows.
+
+=== page 1: *loop slicing* ===
+
+All mlr features are supported (press one button....*play*, press two buttons...*loop*, press higher button first....*reverse loop*). The buttons are mapped to the chosen grid for the channel (see *GRIDSZ* in channel window). 
+
+*row 3* represents channel 1, *row 4* is channel 2,...., *row 11* is channel 9 and can be reached via vertical scroll (see sub control section).
+
+=== page 2: *drumsequencer* ===
+
+The drumsequencer (right hand side) supports four tracks which are assigned to *rows 3-6* and a sequence length of 16 steps. In order to scroll horizontally, use *button 8* of the sub control row (see above).
+
+*row 7..10* are the track specific gains which are set to 1 per default. *row 11* which can be reached by using all vertical scroll buttons is mapped to clearing the track sequences (*button 1-4*) and playing one shots of the loaded samples (*buttons 5-8*)
+
+=== page 3: *stutter* ===
+
+The stutter effect is available per channel (vertical, *row 3* = channel 1) and the value is mapped horizontally across. *button 1* disables stutter (0) and the remaining buttons to the righthand side shorten the loop length exponentially. 
+
+=== page 4: *main channel volume* ===
+
+The main channel volume is mapped in the same way as the stutter effect (see above), vertically the channels are mapped(*row 3* = channel 1), the rest of the row controls the actual value (*button 2..8*). Full gain (1) is mapped to *button 6* (default position).
+
+=== page 5-9: *fx bus volumes* ===
+
+The fx bus volumes are controlled in the same way as the master channel volume. Please note that page 9 (press control row *button 1 and 2*) has to be selected for fx bus 5.
+
+===  page 10: *channel stuff* ===
+
+This page allows controlling various toggle's and bangs per channel (vertical, *row 3* = channel 1) and is mapped as follows:
+
+  * _button 1_.........mute (toggle)
+  * _button 2_.........reverse (toggle)
+  * _button 3_.........remix mode (toggle)
+  * _button 4_.........random pattern (bang)
+  * _button 5_.........quantization (toggle)
+  * _button 6_.........stop (bang)
+  * _button 7_.........select all (bang)
+  * _button 8_.........record (toggle)
+
+All functions can also be controlled via mouse and will be reflected on the monome. _remix mode_ enables random playback of the slices and steps (based on the grid size). A new random pattern is generated with _button 4_. _Quantization_ locks slice jumps to the chosen grid, and _record_ allows live recording of external audio. This is automatically adjusted to the current loop length and relative tempo. If activating _record_, the button starts blinking which will change to a steady light as soon as recording commences.
+
+
+== Additional topics ==
+
+
+All monome stuff is bidirectional, which means that by assigning and changing something using a midi fader (see MidiMapping), keyboard (see KeyMapping and NoteMapping) or the mouse, the respective value will change accordingly on the mono.
