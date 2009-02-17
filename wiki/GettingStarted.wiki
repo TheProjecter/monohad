@@ -13,6 +13,8 @@ In order to get started, the following activities need to be done.
  # Download application and install Max environment
  # Create LOOPS folder within Max5 application directory and put your loops there
  # Create SAMPLES folder within Max5 application directory and put your drumsequencer samples there
+ # copy the externals from the externals folder to the externals folder within your Max5 application directory
+ # copy the MIDI folder from the archive to your Max5 application directory
  # Start application
  # Hit Esc or use mouse (rectangle at the bottom) to start the DSP
  # Click into one of the channels to start or use monome (see Monome64Mapping)
