@@ -1,0 +1,18 @@
+features:
+
+- manual
+- pattern support
+- additional monome mapping (tempo, effects, ..)
+- preset management (storage, recall, partial recall)
+- monome page and offset visualisation
+- dj64 effects
+- monome model configuration
+- midi learn
+- grain synthesizer 
+- 3d visualisation of monome state (x*y*page)
+
+
+bugfixes:
+
+- button switch bugfix (accidental loop)
+
