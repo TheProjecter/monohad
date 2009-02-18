@@ -25,6 +25,8 @@ The control row is used for switching pages. It supports up to 15 pages at the m
 
 In order to activate pages > 8, you have to keep the first button pressed, while pressing the second one. If _button 1_ isn't pressed, the double press is ignored.
 
+The page currently active is indicated in the lower section of the patch (1..Looper, 2..Drum sequencer)
+
 == sub control row ==
 
 The sub control row is page specific and therefore changes (like the workspace) when changing pages.
@@ -33,7 +35,7 @@ The sub control row is page specific and therefore changes (like the workspace) 
   * _button 5-7_............vertical scroll (0..3 rows)
   * _button 8_..............horizontal scroll (0/8 columns)
 
-Vertical scroll depends on the number of _buttons 5-7_ pressed.
+Vertical scroll depends on the number of _buttons 5-7_ pressed. The channels currently mapped to rows 3..8 of the monome are activated in the patch (yellow background), in order to reduce confusion which row belongs to which channel.
 
 == work space ==
 
