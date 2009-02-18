@@ -16,6 +16,7 @@
 
 
 
-= Bugfixes =
+= Optimisations/Bugfixes =
 
  * button switch bugfix (accidental loop)
+ * optimisation of monome page and row loading
