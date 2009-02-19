@@ -7,13 +7,13 @@
  * pattern support
  * additional monome mapping (tempo, effects, ..)
  * preset management (storage, recall, partial recall)
- * monome page and offset visualisation
+ * granular pitch shifting per channel
  * dj64 effects
  * monome model configuration
  * midi learn
- * grain synthesizer 
+ * grain delay 
  * 3d visualisation of monome state (x*y*page)
-
+ * monome page and offset visualisation...........DONE
 
 
 = Optimisations/Bugfixes =
