@@ -9,3 +9,4 @@
 = Bug fixes/Optimisations =
 
  * Quantisation is now independent of grid size and can be changed per channel
+ * The monome interface for setting loops is more robust (distinct from single press)
