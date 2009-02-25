@@ -4,10 +4,10 @@
 = Features =
 
  * manual
- * pattern support
+ * pattern support...............................DONE
  * additional monome mapping (tempo, effects, ..)
  * preset management (storage, recall, partial recall)
- * granular pitch shifting per channel
+ * granular pitch shifting per channel...........DONE
  * dj64 effects
  * monome model configuration
  * midi learn
@@ -18,5 +18,5 @@
 
 = Optimisations/Bugfixes =
 
- * button switch bugfix (accidental loop)
+ * button switch bugfix (accidental loop).........DONE
  * optimisation of monome page and row loading
