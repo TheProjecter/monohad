@@ -1,0 +1,11 @@
+#summary How to enable pitch shifting
+#labels Featured
+= Introduction =
+
+monohad supports channel independent pitch shifting independent of tempo by incorporating the [http://www.elasticmax.co.uk elasticx~] externals.
+
+= Details =
+
+As these externals are not open source, they are not included in the distribution. At start time, monohad checks whether elasticindex~ is installed on your machine. If yes, everything is fine, if not, everything is also fine, but in this case, the standard Max playback objects are used and pitchshifting is disabled.
+
+Please see the [http://www.elasticmax.co.uk elastic homepage] for further details how to purchase and install the externals.
