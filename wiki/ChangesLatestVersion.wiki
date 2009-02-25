@@ -1,0 +1,11 @@
+#summary What has changed with the latest version
+#labels Featured
+
+= Changes =
+
+ * PitchShifting 
+ * PatternRecording 
+
+= Bug fixes/Optimisations =
+
+ * Quantisation is now independent of grid size and can be changed per channel
