@@ -1,4 +1,5 @@
 #summary How to record patterns with monohad
+#labels Featured
 
 = Introduction =
 
@@ -25,8 +26,6 @@ In order to record another pattern, the pattern recorder has to be switched off 
 In order to switch back to a previously recorded pattern, please press the pattern recorder multiple times. The number of button presses minus 1 defines the pattern to be loaded. Let's say, you prerecorded three patterns and you want to recall pattern 2, you need to press the pattern recorder button three times in rapid succession. If the button is pressed more often than existing patterns, the last pattern is selected. 
 
 The active pattern number field will switch to the chosen pattern number, and the pattern will be played.
-
-
 
 
 
