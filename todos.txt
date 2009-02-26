@@ -1,18 +1,31 @@
 features:
 
 - manual
-- pattern support
 - additional monome mapping (tempo, effects, ..)
 - preset management (storage, recall, partial recall)
-- monome page and offset visualisation
 - dj64 effects
 - monome model configuration
-- midi learn
-- grain synthesizer 
+- midi learn 
 - 3d visualisation of monome state (x*y*page)
 
 
 bugfixes:
 
-- button switch bugfix (accidental loop)
+- stepper tempo sync
+- reverse play of recorded patterns
+
+optimisations:
+
+- quantisation of pattern playback (introduction of start marker)
+- review snow2 (granulizing delay) to get something useful out of it
+- take out useless ui objects to get better performance
+- potentially go back to trigger buttons on press vs. release
+
+- replace some functions by percolate externals to
+--escal~ for generating discrete values out of signals
+--jitter~ for swing (randomisation of phasor input)
+--random~ to generate random step sequencer steps (maybe)
+
+
+
 
