@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "presets">
+	<slot number = "1" name = "test2">
+		<pattr name = "ch1_channel" value = "" />
+		<pattr name = "ch2_channel" value = "" />
+		<pattr name = "ch3_channel" value = "" />
+		<pattr name = "ch4_channel" value = "" />
+		<pattr name = "ch5_channel" value = "" />
+		<pattr name = "ch6_channel" value = "" />
+		<pattr name = "ch7_channel" value = "" />
+		<pattr name = "ch8_channel" value = "" />
+		<pattr name = "ch9_dseq" value = "&quot;object (jpatcher)&quot;" />
+		<patcher name = "ch4_channel">
+			<pattr name = "ch4_bit_c" value = "0" />
+			<pattr name = "ch4_clip_c" value = "0." />
+			<pattr name = "ch4_gridsize_c" value = "4" />
+			<pattr name = "ch4_loopname_c" value = "snare.aif" />
+			<pattr name = "ch4_lvl_fx1_c" value = "0" />
+			<pattr name = "ch4_lvl_fx2_c" value = "0" />
+			<pattr name = "ch4_lvl_fx3_c" value = "0" />
+			<pattr name = "ch4_lvl_fx4_c" value = "0" />
+			<pattr name = "ch4_lvl_fx5_c" value = "0" />
+			<pattr name = "ch4_lvl_main_c" value = "127" />
+			<pattr name = "ch4_mute_c" value = "1" />
+			<pattr name = "ch4_normalize_peak_c" value = "1." />
+			<pattr name = "ch4_phasedi_c" value = "0" />
+			<pattr name = "ch4_phaselength_c" value = "0" />
+			<pattr name = "ch4_pitch_c" value = "1." />
+			<pattr name = "ch4_pregain_c" value = "1." />
+			<pattr name = "ch4_quant_c" value = "4" />
+			<pattr name = "ch4_reso_c" value = "1." />
+			<pattr name = "ch4_rev_c" value = "0" />
+			<pattr name = "patcher" value = "" />
+			<pattr name = "ch4_filter_c" value = "1" />
+			<pattr name = "ch4_cutoff_c" value = "0." />
+		</patcher>
+		<patcher name = "ch3_channel">
+			<pattr name = "ch3_bit_c" value = "0" />
+			<pattr name = "ch3_clip_c" value = "0." />
+			<pattr name = "ch3_gridsize_c" value = "4" />
+			<pattr name = "ch3_loopname_c" value = "43541__mkoenig__congo_130.wav" />
+			<pattr name = "ch3_lvl_fx1_c" value = "0" />
+			<pattr name = "ch3_lvl_fx2_c" value = "0" />
+			<pattr name = "ch3_lvl_fx3_c" value = "0" />
+			<pattr name = "ch3_lvl_fx4_c" value = "0" />
+			<pattr name = "ch3_lvl_fx5_c" value = "0" />
+			<pattr name = "ch3_lvl_main_c" value = "127" />
+			<pattr name = "ch3_mute_c" value = "1" />
+			<pattr name = "ch3_normalize_peak_c" value = "1." />
+			<pattr name = "ch3_phasedi_c" value = "2" />
+			<pattr name = "ch3_phaselength_c" value = "0" />
+			<pattr name = "ch3_pitch_c" value = "1." />
+			<pattr name = "ch3_pregain_c" value = "1." />
+			<pattr name = "ch3_quant_c" value = "4" />
+			<pattr name = "ch3_reso_c" value = "1." />
+			<pattr name = "ch3_rev_c" value = "0" />
+			<pattr name = "patcher" value = "" />
+			<pattr name = "ch3_filter_c" value = "1" />
+			<pattr name = "ch3_cutoff_c" value = "0." />
+		</patcher>
+		<patcher name = "ch1_channel">
+			<pattr name = "ch1_bit_c" value = "0" />
+			<pattr name = "ch1_clip_c" value = "0." />
+			<pattr name = "ch1_gridsize_c" value = "4" />
+			<pattr name = "ch1_loopname_c" value = "43540__mkoenig__congo3_130.wav" />
+			<pattr name = "ch1_lvl_fx1_c" value = "0" />
+			<pattr name = "ch1_lvl_fx2_c" value = "0" />
+			<pattr name = "ch1_lvl_fx3_c" value = "0" />
+			<pattr name = "ch1_lvl_fx4_c" value = "0" />
+			<pattr name = "ch1_lvl_fx5_c" value = "0" />
+			<pattr name = "ch1_lvl_main_c" value = "127" />
+			<pattr name = "ch1_mute_c" value = "1" />
+			<pattr name = "ch1_normalize_peak_c" value = "1." />
+			<pattr name = "ch1_phasedi_c" value = "2" />
+			<pattr name = "ch1_phaselength_c" value = "0" />
+			<pattr name = "ch1_pitch_c" value = "1.146" />
+			<pattr name = "ch1_pregain_c" value = "1." />
+			<pattr name = "ch1_quant_c" value = "4" />
+			<pattr name = "ch1_reso_c" value = "1." />
+			<pattr name = "ch1_rev_c" value = "0" />
+			<pattr name = "patcher" value = "" />
+			<pattr name = "ch1_filter_c" value = "1" />
+			<pattr name = "ch1_cutoff_c" value = "0.67" />
+		</patcher>
+		<patcher name = "ch5_channel">
+			<pattr name = "ch5_bit_c" value = "0" />
+			<pattr name = "ch5_clip_c" value = "0." />
+			<pattr name = "ch5_gridsize_c" value = "4" />
+			<pattr name = "ch5_loopname_c" value = "21226__djgriffin__120brksub.aiff" />
+			<pattr name = "ch5_lvl_fx1_c" value = "0" />
+			<pattr name = "ch5_lvl_fx2_c" value = "0" />
+			<pattr name = "ch5_lvl_fx3_c" value = "0" />
+			<pattr name = "ch5_lvl_fx4_c" value = "0" />
+			<pattr name = "ch5_lvl_fx5_c" value = "0" />
+			<pattr name = "ch5_lvl_main_c" value = "127" />
+			<pattr name = "ch5_mute_c" value = "1" />
+			<pattr name = "ch5_normalize_peak_c" value = "1." />
+			<pattr name = "ch5_phasedi_c" value = "3" />
+			<pattr name = "ch5_phaselength_c" value = "0" />
+			<pattr name = "ch5_pitch_c" value = "1." />
+			<pattr name = "ch5_pregain_c" value = "1." />
+			<pattr name = "ch5_quant_c" value = "4" />
+			<pattr name = "ch5_reso_c" value = "1." />
+			<pattr name = "ch5_rev_c" value = "0" />
+			<pattr name = "patcher" value = "" />
+			<pattr name = "ch5_filter_c" value = "1" />
+			<pattr name = "ch5_cutoff_c" value = "0." />
+		</patcher>
+		<patcher name = "ch2_channel">
+			<pattr name = "ch2_bit_c" value = "0" />
+			<pattr name = "ch2_clip_c" value = "0." />
+			<pattr name = "ch2_gridsize_c" value = "4" />
+			<pattr name = "ch2_loopname_c" value = "43541__mkoenig__congo_130.wav" />
+			<pattr name = "ch2_lvl_fx1_c" value = "0" />
+			<pattr name = "ch2_lvl_fx2_c" value = "0" />
+			<pattr name = "ch2_lvl_fx3_c" value = "0" />
+			<pattr name = "ch2_lvl_fx4_c" value = "0" />
+			<pattr name = "ch2_lvl_fx5_c" value = "0" />
+			<pattr name = "ch2_lvl_main_c" value = "127" />
+			<pattr name = "ch2_mute_c" value = "1" />
+			<pattr name = "ch2_normalize_peak_c" value = "1." />
+			<pattr name = "ch2_phasedi_c" value = "2" />
+			<pattr name = "ch2_phaselength_c" value = "0" />
+			<pattr name = "ch2_pitch_c" value = "1." />
+			<pattr name = "ch2_pregain_c" value = "1." />
+			<pattr name = "ch2_quant_c" value = "4" />
+			<pattr name = "ch2_reso_c" value = "1." />
+			<pattr name = "ch2_rev_c" value = "0" />
+			<pattr name = "patcher" value = "" />
+			<pattr name = "ch2_filter_c" value = "1" />
+			<pattr name = "ch2_cutoff_c" value = "0." />
+		</patcher>
+		<patcher name = "ch6_channel">
+			<pattr name = "ch6_bit_c" value = "0" />
+			<pattr name = "ch6_clip_c" value = "0." />
+			<pattr name = "ch6_gridsize_c" value = "4" />
+			<pattr name = "ch6_loopname_c" value = "snare.aif" />
+			<pattr name = "ch6_lvl_fx1_c" value = "0" />
+			<pattr name = "ch6_lvl_fx2_c" value = "0" />
+			<pattr name = "ch6_lvl_fx3_c" value = "0" />
+			<pattr name = "ch6_lvl_fx4_c" value = "0" />
+			<pattr name = "ch6_lvl_fx5_c" value = "0" />
+			<pattr name = "ch6_lvl_main_c" value = "127" />
+			<pattr name = "ch6_mute_c" value = "1" />
+			<pattr name = "ch6_normalize_peak_c" value = "1." />
+			<pattr name = "ch6_phasedi_c" value = "0" />
+			<pattr name = "ch6_phaselength_c" value = "0" />
+			<pattr name = "ch6_pitch_c" value = "1." />
+			<pattr name = "ch6_pregain_c" value = "1." />
+			<pattr name = "ch6_quant_c" value = "4" />
+			<pattr name = "ch6_reso_c" value = "1." />
+			<pattr name = "ch6_rev_c" value = "0" />
+			<pattr name = "patcher" value = "" />
+			<pattr name = "ch6_filter_c" value = "1" />
+			<pattr name = "ch6_cutoff_c" value = "0." />
+		</patcher>
+		<patcher name = "ch7_channel">
+			<pattr name = "ch7_bit_c" value = "0" />
+			<pattr name = "ch7_clip_c" value = "0." />
+			<pattr name = "ch7_gridsize_c" value = "4" />
+			<pattr name = "ch7_loopname_c" value = "Untitled.aif" />
+			<pattr name = "ch7_lvl_fx1_c" value = "0" />
+			<pattr name = "ch7_lvl_fx2_c" value = "0" />
+			<pattr name = "ch7_lvl_fx3_c" value = "0" />
+			<pattr name = "ch7_lvl_fx4_c" value = "0" />
+			<pattr name = "ch7_lvl_fx5_c" value = "0" />
+			<pattr name = "ch7_lvl_main_c" value = "127" />
+			<pattr name = "ch7_mute_c" value = "1" />
+			<pattr name = "ch7_normalize_peak_c" value = "1." />
+			<pattr name = "ch7_phasedi_c" value = "0" />
+			<pattr name = "ch7_phaselength_c" value = "0" />
+			<pattr name = "ch7_pitch_c" value = "1." />
+			<pattr name = "ch7_pregain_c" value = "1." />
+			<pattr name = "ch7_quant_c" value = "4" />
+			<pattr name = "ch7_reso_c" value = "1." />
+			<pattr name = "ch7_rev_c" value = "0" />
+			<pattr name = "patcher" value = "" />
+			<pattr name = "ch7_filter_c" value = "1" />
+			<pattr name = "ch7_cutoff_c" value = "0." />
+		</patcher>
+		<patcher name = "ch8_channel">
+			<pattr name = "ch8_bit_c" value = "0" />
+			<pattr name = "ch8_clip_c" value = "0." />
+			<pattr name = "ch8_gridsize_c" value = "4" />
+			<pattr name = "ch8_loopname_c" value = "43540__mkoenig__congo3_130.wav" />
+			<pattr name = "ch8_lvl_fx1_c" value = "0" />
+			<pattr name = "ch8_lvl_fx2_c" value = "0" />
+			<pattr name = "ch8_lvl_fx3_c" value = "0" />
+			<pattr name = "ch8_lvl_fx4_c" value = "0" />
+			<pattr name = "ch8_lvl_fx5_c" value = "0" />
+			<pattr name = "ch8_lvl_main_c" value = "127" />
+			<pattr name = "ch8_mute_c" value = "1" />
+			<pattr name = "ch8_normalize_peak_c" value = "1." />
+			<pattr name = "ch8_phasedi_c" value = "2" />
+			<pattr name = "ch8_phaselength_c" value = "0" />
+			<pattr name = "ch8_pitch_c" value = "1." />
+			<pattr name = "ch8_pregain_c" value = "1." />
+			<pattr name = "ch8_quant_c" value = "4" />
+			<pattr name = "ch8_reso_c" value = "1." />
+			<pattr name = "ch8_rev_c" value = "0" />
+			<pattr name = "patcher" value = "" />
+			<pattr name = "ch8_filter_c" value = "1" />
+			<pattr name = "ch8_cutoff_c" value = "0." />
+		</patcher>
+	</slot>
+	<slot number = "2">
+		<pattr name = "ch1_channel" value = "" />
+		<pattr name = "ch2_channel" value = "" />
+		<pattr name = "ch3_channel" value = "" />
+		<pattr name = "ch4_channel" value = "" />
+		<pattr name = "ch5_channel" value = "" />
+		<pattr name = "ch6_channel" value = "" />
+		<pattr name = "ch7_channel" value = "" />
+		<pattr name = "ch8_channel" value = "" />
+		<pattr name = "ch9_dseq" value = "&quot;object (jpatcher)&quot;" />
+		<patcher name = "ch4_channel">
+			<pattr name = "ch4_bit_c" value = "0" />
+			<pattr name = "ch4_clip_c" value = "0." />
+			<pattr name = "ch4_gridsize_c" value = "4" />
+			<pattr name = "ch4_loopname_c" value = "snare.aif" />
+			<pattr name = "ch4_lvl_fx1_c" value = "0" />
+			<pattr name = "ch4_lvl_fx2_c" value = "0" />
+			<pattr name = "ch4_lvl_fx3_c" value = "0" />
+			<pattr name = "ch4_lvl_fx4_c" value = "0" />
+			<pattr name = "ch4_lvl_fx5_c" value = "0" />
+			<pattr name = "ch4_lvl_main_c" value = "127" />
+			<pattr name = "ch4_mute_c" value = "1" />
+			<pattr name = "ch4_normalize_peak_c" value = "1." />
+			<pattr name = "ch4_phasedi_c" value = "0" />
+			<pattr name = "ch4_phaselength_c" value = "0" />
+			<pattr name = "ch4_pitch_c" value = "1." />
+			<pattr name = "ch4_pregain_c" value = "1." />
+			<pattr name = "ch4_quant_c" value = "4" />
+			<pattr name = "ch4_reso_c" value = "1." />
+			<pattr name = "ch4_rev_c" value = "0" />
+			<pattr name = "patcher" value = "" />
+			<pattr name = "ch4_filter_c" value = "1" />
+			<pattr name = "ch4_cutoff_c" value = "0." />
+		</patcher>
+		<patcher name = "ch3_channel">
+			<pattr name = "ch3_bit_c" value = "0" />
+			<pattr name = "ch3_clip_c" value = "0." />
+			<pattr name = "ch3_gridsize_c" value = "4" />
+			<pattr name = "ch3_loopname_c" value = "43541__mkoenig__congo_130.wav" />
+			<pattr name = "ch3_lvl_fx1_c" value = "0" />
+			<pattr name = "ch3_lvl_fx2_c" value = "0" />
+			<pattr name = "ch3_lvl_fx3_c" value = "0" />
+			<pattr name = "ch3_lvl_fx4_c" value = "0" />
+			<pattr name = "ch3_lvl_fx5_c" value = "0" />
+			<pattr name = "ch3_lvl_main_c" value = "127" />
+			<pattr name = "ch3_mute_c" value = "1" />
+			<pattr name = "ch3_normalize_peak_c" value = "1." />
+			<pattr name = "ch3_phasedi_c" value = "2" />
+			<pattr name = "ch3_phaselength_c" value = "0" />
+			<pattr name = "ch3_pitch_c" value = "1." />
+			<pattr name = "ch3_pregain_c" value = "1." />
+			<pattr name = "ch3_quant_c" value = "4" />
+			<pattr name = "ch3_reso_c" value = "1." />
+			<pattr name = "ch3_rev_c" value = "0" />
+			<pattr name = "patcher" value = "" />
+			<pattr name = "ch3_filter_c" value = "1" />
+			<pattr name = "ch3_cutoff_c" value = "0." />
+		</patcher>
+		<patcher name = "ch1_channel">
+			<pattr name = "ch1_bit_c" value = "0" />
+			<pattr name = "ch1_clip_c" value = "0." />
+			<pattr name = "ch1_gridsize_c" value = "4" />
+			<pattr name = "ch1_loopname_c" value = "43540__mkoenig__congo3_130.wav" />
+			<pattr name = "ch1_lvl_fx1_c" value = "0" />
+			<pattr name = "ch1_lvl_fx2_c" value = "0" />
+			<pattr name = "ch1_lvl_fx3_c" value = "0" />
+			<pattr name = "ch1_lvl_fx4_c" value = "0" />
+			<pattr name = "ch1_lvl_fx5_c" value = "127" />
+			<pattr name = "ch1_lvl_main_c" value = "127" />
+			<pattr name = "ch1_mute_c" value = "1" />
+			<pattr name = "ch1_normalize_peak_c" value = "1." />
+			<pattr name = "ch1_phasedi_c" value = "2" />
+			<pattr name = "ch1_phaselength_c" value = "0" />
+			<pattr name = "ch1_pitch_c" value = "1." />
+			<pattr name = "ch1_pregain_c" value = "1." />
+			<pattr name = "ch1_quant_c" value = "4" />
+			<pattr name = "ch1_reso_c" value = "1." />
+			<pattr name = "ch1_rev_c" value = "0" />
+			<pattr name = "patcher" value = "" />
+			<pattr name = "ch1_filter_c" value = "1" />
+			<pattr name = "ch1_cutoff_c" value = "0." />
+		</patcher>
+		<patcher name = "ch5_channel">
+			<pattr name = "ch5_bit_c" value = "0" />
+			<pattr name = "ch5_clip_c" value = "0." />
+			<pattr name = "ch5_gridsize_c" value = "4" />
+			<pattr name = "ch5_loopname_c" value = "21226__djgriffin__120brksub.aiff" />
+			<pattr name = "ch5_lvl_fx1_c" value = "0" />
+			<pattr name = "ch5_lvl_fx2_c" value = "0" />
+			<pattr name = "ch5_lvl_fx3_c" value = "0" />
+			<pattr name = "ch5_lvl_fx4_c" value = "0" />
+			<pattr name = "ch5_lvl_fx5_c" value = "0" />
+			<pattr name = "ch5_lvl_main_c" value = "127" />
+			<pattr name = "ch5_mute_c" value = "1" />
+			<pattr name = "ch5_normalize_peak_c" value = "1." />
+			<pattr name = "ch5_phasedi_c" value = "3" />
+			<pattr name = "ch5_phaselength_c" value = "0" />
+			<pattr name = "ch5_pitch_c" value = "1." />
+			<pattr name = "ch5_pregain_c" value = "1." />
+			<pattr name = "ch5_quant_c" value = "4" />
+			<pattr name = "ch5_reso_c" value = "1." />
+			<pattr name = "ch5_rev_c" value = "0" />
+			<pattr name = "patcher" value = "" />
+			<pattr name = "ch5_filter_c" value = "1" />
+			<pattr name = "ch5_cutoff_c" value = "0." />
+		</patcher>
+		<patcher name = "ch2_channel">
+			<pattr name = "ch2_bit_c" value = "0" />
+			<pattr name = "ch2_clip_c" value = "0." />
+			<pattr name = "ch2_gridsize_c" value = "4" />
+			<pattr name = "ch2_loopname_c" value = "43541__mkoenig__congo_130.wav" />
+			<pattr name = "ch2_lvl_fx1_c" value = "0" />
+			<pattr name = "ch2_lvl_fx2_c" value = "0" />
+			<pattr name = "ch2_lvl_fx3_c" value = "0" />
+			<pattr name = "ch2_lvl_fx4_c" value = "0" />
+			<pattr name = "ch2_lvl_fx5_c" value = "0" />
+			<pattr name = "ch2_lvl_main_c" value = "127" />
+			<pattr name = "ch2_mute_c" value = "1" />
+			<pattr name = "ch2_normalize_peak_c" value = "1." />
+			<pattr name = "ch2_phasedi_c" value = "2" />
+			<pattr name = "ch2_phaselength_c" value = "0" />
+			<pattr name = "ch2_pitch_c" value = "1." />
+			<pattr name = "ch2_pregain_c" value = "1." />
+			<pattr name = "ch2_quant_c" value = "4" />
+			<pattr name = "ch2_reso_c" value = "1." />
+			<pattr name = "ch2_rev_c" value = "0" />
+			<pattr name = "patcher" value = "" />
+			<pattr name = "ch2_filter_c" value = "1" />
+			<pattr name = "ch2_cutoff_c" value = "0." />
+		</patcher>
+		<patcher name = "ch6_channel">
+			<pattr name = "ch6_bit_c" value = "0" />
+			<pattr name = "ch6_clip_c" value = "0." />
+			<pattr name = "ch6_gridsize_c" value = "4" />
+			<pattr name = "ch6_loopname_c" value = "snare.aif" />
+			<pattr name = "ch6_lvl_fx1_c" value = "0" />
+			<pattr name = "ch6_lvl_fx2_c" value = "0" />
+			<pattr name = "ch6_lvl_fx3_c" value = "0" />
+			<pattr name = "ch6_lvl_fx4_c" value = "0" />
+			<pattr name = "ch6_lvl_fx5_c" value = "0" />
+			<pattr name = "ch6_lvl_main_c" value = "127" />
+			<pattr name = "ch6_mute_c" value = "1" />
+			<pattr name = "ch6_normalize_peak_c" value = "1." />
+			<pattr name = "ch6_phasedi_c" value = "0" />
+			<pattr name = "ch6_phaselength_c" value = "0" />
+			<pattr name = "ch6_pitch_c" value = "1." />
+			<pattr name = "ch6_pregain_c" value = "1." />
+			<pattr name = "ch6_quant_c" value = "4" />
+			<pattr name = "ch6_reso_c" value = "1." />
+			<pattr name = "ch6_rev_c" value = "0" />
+			<pattr name = "patcher" value = "" />
+			<pattr name = "ch6_filter_c" value = "1" />
+			<pattr name = "ch6_cutoff_c" value = "0." />
+		</patcher>
+		<patcher name = "ch7_channel">
+			<pattr name = "ch7_bit_c" value = "0" />
+			<pattr name = "ch7_clip_c" value = "0." />
+			<pattr name = "ch7_gridsize_c" value = "4" />
+			<pattr name = "ch7_loopname_c" value = "Untitled.aif" />
+			<pattr name = "ch7_lvl_fx1_c" value = "0" />
+			<pattr name = "ch7_lvl_fx2_c" value = "0" />
+			<pattr name = "ch7_lvl_fx3_c" value = "0" />
+			<pattr name = "ch7_lvl_fx4_c" value = "0" />
+			<pattr name = "ch7_lvl_fx5_c" value = "0" />
+			<pattr name = "ch7_lvl_main_c" value = "127" />
+			<pattr name = "ch7_mute_c" value = "1" />
+			<pattr name = "ch7_normalize_peak_c" value = "1." />
+			<pattr name = "ch7_phasedi_c" value = "0" />
+			<pattr name = "ch7_phaselength_c" value = "0" />
+			<pattr name = "ch7_pitch_c" value = "1." />
+			<pattr name = "ch7_pregain_c" value = "1." />
+			<pattr name = "ch7_quant_c" value = "4" />
+			<pattr name = "ch7_reso_c" value = "1." />
+			<pattr name = "ch7_rev_c" value = "0" />
+			<pattr name = "patcher" value = "" />
+			<pattr name = "ch7_filter_c" value = "1" />
+			<pattr name = "ch7_cutoff_c" value = "0." />
+		</patcher>
+		<patcher name = "ch8_channel">
+			<pattr name = "ch8_bit_c" value = "0" />
+			<pattr name = "ch8_clip_c" value = "0." />
+			<pattr name = "ch8_gridsize_c" value = "4" />
+			<pattr name = "ch8_loopname_c" value = "43540__mkoenig__congo3_130.wav" />
+			<pattr name = "ch8_lvl_fx1_c" value = "0" />
+			<pattr name = "ch8_lvl_fx2_c" value = "0" />
+			<pattr name = "ch8_lvl_fx3_c" value = "0" />
+			<pattr name = "ch8_lvl_fx4_c" value = "0" />
+			<pattr name = "ch8_lvl_fx5_c" value = "0" />
+			<pattr name = "ch8_lvl_main_c" value = "127" />
+			<pattr name = "ch8_mute_c" value = "1" />
+			<pattr name = "ch8_normalize_peak_c" value = "1." />
+			<pattr name = "ch8_phasedi_c" value = "2" />
+			<pattr name = "ch8_phaselength_c" value = "0" />
+			<pattr name = "ch8_pitch_c" value = "1." />
+			<pattr name = "ch8_pregain_c" value = "1." />
+			<pattr name = "ch8_quant_c" value = "4" />
+			<pattr name = "ch8_reso_c" value = "1." />
+			<pattr name = "ch8_rev_c" value = "0" />
+			<pattr name = "patcher" value = "" />
+			<pattr name = "ch8_filter_c" value = "1" />
+			<pattr name = "ch8_cutoff_c" value = "0." />
+		</patcher>
+	</slot>
+	<slot number = "3">
+		<pattr name = "ch1_channel" value = "&quot;object (jpatcher)&quot;" />
+		<pattr name = "ch2_channel" value = "&quot;object (jpatcher)&quot;" />
+		<pattr name = "ch3_channel" value = "&quot;object (jpatcher)&quot;" />
+		<pattr name = "ch4_channel" value = "&quot;object (jpatcher)&quot;" />
+		<pattr name = "ch5_channel" value = "&quot;object (jpatcher)&quot;" />
+		<pattr name = "ch6_channel" value = "&quot;object (jpatcher)&quot;" />
+		<pattr name = "ch7_channel" value = "&quot;object (jpatcher)&quot;" />
+		<pattr name = "ch8_channel" value = "&quot;object (jpatcher)&quot;" />
+		<pattr name = "ch9_dseq" value = "&quot;object (jpatcher)&quot;" />
+		<patcher name = "ch4_channel">
+			<pattr name = "ch4_bit_c" value = "0" />
+			<pattr name = "ch4_clip_c" value = "0." />
+			<pattr name = "ch4_gridsize_c" value = "4" />
+			<pattr name = "ch4_loopname_c" value = "snare.aif" />
+			<pattr name = "ch4_lvl_fx1_c" value = "0" />
+			<pattr name = "ch4_lvl_fx2_c" value = "0" />
+			<pattr name = "ch4_lvl_fx3_c" value = "0" />
+			<pattr name = "ch4_lvl_fx4_c" value = "0" />
+			<pattr name = "ch4_lvl_fx5_c" value = "0" />
+			<pattr name = "ch4_lvl_main_c" value = "127" />
+			<pattr name = "ch4_mute_c" value = "1" />
+			<pattr name = "ch4_normalize_peak_c" value = "1." />
+			<pattr name = "ch4_phasedi_c" value = "0" />
+			<pattr name = "ch4_phaselength_c" value = "0" />
+			<pattr name = "ch4_pitch_c" value = "1." />
+			<pattr name = "ch4_pregain_c" value = "1." />
+			<pattr name = "ch4_quant_c" value = "4" />
+			<pattr name = "ch4_reso_c" value = "1." />
+			<pattr name = "ch4_rev_c" value = "0" />
+			<pattr name = "patcher" value = "" />
+			<pattr name = "ch4_filter_c" value = "1" />
+			<pattr name = "ch4_cutoff_c" value = "0." />
+		</patcher>
+		<patcher name = "ch3_channel">
+			<pattr name = "ch3_bit_c" value = "0" />
+			<pattr name = "ch3_clip_c" value = "0." />
+			<pattr name = "ch3_gridsize_c" value = "4" />
+			<pattr name = "ch3_loopname_c" value = "43541__mkoenig__congo_130.wav" />
+			<pattr name = "ch3_lvl_fx1_c" value = "0" />
+			<pattr name = "ch3_lvl_fx2_c" value = "0" />
+			<pattr name = "ch3_lvl_fx3_c" value = "0" />
+			<pattr name = "ch3_lvl_fx4_c" value = "0" />
+			<pattr name = "ch3_lvl_fx5_c" value = "0" />
+			<pattr name = "ch3_lvl_main_c" value = "127" />
+			<pattr name = "ch3_mute_c" value = "1" />
+			<pattr name = "ch3_normalize_peak_c" value = "1." />
+			<pattr name = "ch3_phasedi_c" value = "2" />
+			<pattr name = "ch3_phaselength_c" value = "0" />
+			<pattr name = "ch3_pitch_c" value = "1." />
+			<pattr name = "ch3_pregain_c" value = "1." />
+			<pattr name = "ch3_quant_c" value = "4" />
+			<pattr name = "ch3_reso_c" value = "1." />
+			<pattr name = "ch3_rev_c" value = "0" />
+			<pattr name = "patcher" value = "" />
+			<pattr name = "ch3_filter_c" value = "1" />
+			<pattr name = "ch3_cutoff_c" value = "0." />
+		</patcher>
+		<patcher name = "ch1_channel">
+			<pattr name = "ch1_bit_c" value = "10" />
+			<pattr name = "ch1_clip_c" value = "0.9" />
+			<pattr name = "ch1_gridsize_c" value = "4" />
+			<pattr name = "ch1_loopname_c" value = "21226__djgriffin__120brksub.aiff" />
+			<pattr name = "ch1_lvl_fx1_c" value = "0" />
+			<pattr name = "ch1_lvl_fx2_c" value = "0" />
+			<pattr name = "ch1_lvl_fx3_c" value = "0" />
+			<pattr name = "ch1_lvl_fx4_c" value = "0" />
+			<pattr name = "ch1_lvl_fx5_c" value = "127" />
+			<pattr name = "ch1_lvl_main_c" value = "127" />
+			<pattr name = "ch1_mute_c" value = "1" />
+			<pattr name = "ch1_normalize_peak_c" value = "1." />
+			<pattr name = "ch1_phasedi_c" value = "3" />
+			<pattr name = "ch1_phaselength_c" value = "0" />
+			<pattr name = "ch1_pitch_c" value = "1." />
+			<pattr name = "ch1_pregain_c" value = "1." />
+			<pattr name = "ch1_quant_c" value = "4" />
+			<pattr name = "ch1_reso_c" value = "1." />
+			<pattr name = "ch1_rev_c" value = "0" />
+			<pattr name = "patcher" value = "" />
+			<pattr name = "ch1_filter_c" value = "0" />
+			<pattr name = "ch1_cutoff_c" value = "1." />
+		</patcher>
+		<patcher name = "ch5_channel">
+			<pattr name = "ch5_bit_c" value = "0" />
+			<pattr name = "ch5_clip_c" value = "0." />
+			<pattr name = "ch5_gridsize_c" value = "4" />
+			<pattr name = "ch5_loopname_c" value = "21226__djgriffin__120brksub.aiff" />
+			<pattr name = "ch5_lvl_fx1_c" value = "0" />
+			<pattr name = "ch5_lvl_fx2_c" value = "0" />
+			<pattr name = "ch5_lvl_fx3_c" value = "0" />
+			<pattr name = "ch5_lvl_fx4_c" value = "0" />
+			<pattr name = "ch5_lvl_fx5_c" value = "0" />
+			<pattr name = "ch5_lvl_main_c" value = "127" />
+			<pattr name = "ch5_mute_c" value = "1" />
+			<pattr name = "ch5_normalize_peak_c" value = "1." />
+			<pattr name = "ch5_phasedi_c" value = "3" />
+			<pattr name = "ch5_phaselength_c" value = "0" />
+			<pattr name = "ch5_pitch_c" value = "1." />
+			<pattr name = "ch5_pregain_c" value = "1." />
+			<pattr name = "ch5_quant_c" value = "4" />
+			<pattr name = "ch5_reso_c" value = "1." />
+			<pattr name = "ch5_rev_c" value = "0" />
+			<pattr name = "patcher" value = "" />
+			<pattr name = "ch5_filter_c" value = "1" />
+			<pattr name = "ch5_cutoff_c" value = "0." />
+		</patcher>
+		<patcher name = "ch2_channel">
+			<pattr name = "ch2_bit_c" value = "0" />
+			<pattr name = "ch2_clip_c" value = "0." />
+			<pattr name = "ch2_gridsize_c" value = "4" />
+			<pattr name = "ch2_loopname_c" value = "43541__mkoenig__congo_130.wav" />
+			<pattr name = "ch2_lvl_fx1_c" value = "0" />
+			<pattr name = "ch2_lvl_fx2_c" value = "0" />
+			<pattr name = "ch2_lvl_fx3_c" value = "0" />
+			<pattr name = "ch2_lvl_fx4_c" value = "0" />
+			<pattr name = "ch2_lvl_fx5_c" value = "0" />
+			<pattr name = "ch2_lvl_main_c" value = "127" />
+			<pattr name = "ch2_mute_c" value = "1" />
+			<pattr name = "ch2_normalize_peak_c" value = "1." />
+			<pattr name = "ch2_phasedi_c" value = "2" />
+			<pattr name = "ch2_phaselength_c" value = "0" />
+			<pattr name = "ch2_pitch_c" value = "1." />
+			<pattr name = "ch2_pregain_c" value = "1." />
+			<pattr name = "ch2_quant_c" value = "4" />
+			<pattr name = "ch2_reso_c" value = "1." />
+			<pattr name = "ch2_rev_c" value = "0" />
+			<pattr name = "patcher" value = "" />
+			<pattr name = "ch2_filter_c" value = "1" />
+			<pattr name = "ch2_cutoff_c" value = "0." />
+		</patcher>
+		<patcher name = "ch6_channel">
+			<pattr name = "ch6_bit_c" value = "0" />
+			<pattr name = "ch6_clip_c" value = "0." />
+			<pattr name = "ch6_gridsize_c" value = "4" />
+			<pattr name = "ch6_loopname_c" value = "snare.aif" />
+			<pattr name = "ch6_lvl_fx1_c" value = "0" />
+			<pattr name = "ch6_lvl_fx2_c" value = "0" />
+			<pattr name = "ch6_lvl_fx3_c" value = "0" />
+			<pattr name = "ch6_lvl_fx4_c" value = "0" />
+			<pattr name = "ch6_lvl_fx5_c" value = "0" />
+			<pattr name = "ch6_lvl_main_c" value = "127" />
+			<pattr name = "ch6_mute_c" value = "1" />
+			<pattr name = "ch6_normalize_peak_c" value = "1." />
+			<pattr name = "ch6_phasedi_c" value = "0" />
+			<pattr name = "ch6_phaselength_c" value = "0" />
+			<pattr name = "ch6_pitch_c" value = "1." />
+			<pattr name = "ch6_pregain_c" value = "1." />
+			<pattr name = "ch6_quant_c" value = "4" />
+			<pattr name = "ch6_reso_c" value = "1." />
+			<pattr name = "ch6_rev_c" value = "0" />
+			<pattr name = "patcher" value = "" />
+			<pattr name = "ch6_filter_c" value = "1" />
+			<pattr name = "ch6_cutoff_c" value = "0." />
+		</patcher>
+		<patcher name = "ch7_channel">
+			<pattr name = "ch7_bit_c" value = "0" />
+			<pattr name = "ch7_clip_c" value = "0." />
+			<pattr name = "ch7_gridsize_c" value = "4" />
+			<pattr name = "ch7_loopname_c" value = "Untitled.aif" />
+			<pattr name = "ch7_lvl_fx1_c" value = "0" />
+			<pattr name = "ch7_lvl_fx2_c" value = "0" />
+			<pattr name = "ch7_lvl_fx3_c" value = "0" />
+			<pattr name = "ch7_lvl_fx4_c" value = "0" />
+			<pattr name = "ch7_lvl_fx5_c" value = "0" />
+			<pattr name = "ch7_lvl_main_c" value = "127" />
+			<pattr name = "ch7_mute_c" value = "1" />
+			<pattr name = "ch7_normalize_peak_c" value = "1." />
+			<pattr name = "ch7_phasedi_c" value = "0" />
+			<pattr name = "ch7_phaselength_c" value = "0" />
+			<pattr name = "ch7_pitch_c" value = "1." />
+			<pattr name = "ch7_pregain_c" value = "1." />
+			<pattr name = "ch7_quant_c" value = "4" />
+			<pattr name = "ch7_reso_c" value = "1." />
+			<pattr name = "ch7_rev_c" value = "0" />
+			<pattr name = "patcher" value = "" />
+			<pattr name = "ch7_filter_c" value = "1" />
+			<pattr name = "ch7_cutoff_c" value = "0." />
+		</patcher>
+		<patcher name = "ch8_channel">
+			<pattr name = "ch8_bit_c" value = "0" />
+			<pattr name = "ch8_clip_c" value = "0." />
+			<pattr name = "ch8_gridsize_c" value = "4" />
+			<pattr name = "ch8_loopname_c" value = "43540__mkoenig__congo3_130.wav" />
+			<pattr name = "ch8_lvl_fx1_c" value = "0" />
+			<pattr name = "ch8_lvl_fx2_c" value = "0" />
+			<pattr name = "ch8_lvl_fx3_c" value = "0" />
+			<pattr name = "ch8_lvl_fx4_c" value = "0" />
+			<pattr name = "ch8_lvl_fx5_c" value = "0" />
+			<pattr name = "ch8_lvl_main_c" value = "127" />
+			<pattr name = "ch8_mute_c" value = "1" />
+			<pattr name = "ch8_normalize_peak_c" value = "1." />
+			<pattr name = "ch8_phasedi_c" value = "2" />
+			<pattr name = "ch8_phaselength_c" value = "0" />
+			<pattr name = "ch8_pitch_c" value = "1." />
+			<pattr name = "ch8_pregain_c" value = "1." />
+			<pattr name = "ch8_quant_c" value = "4" />
+			<pattr name = "ch8_reso_c" value = "1." />
+			<pattr name = "ch8_rev_c" value = "0" />
+			<pattr name = "patcher" value = "" />
+			<pattr name = "ch8_filter_c" value = "1" />
+			<pattr name = "ch8_cutoff_c" value = "0." />
+		</patcher>
+	</slot>
+</pattrstorage>
+
