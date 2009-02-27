@@ -24,7 +24,7 @@ In order to get started, the following activities need to be undertaken.
  # copy the MIDI folder (see above) from the archive to your Max5 application directory
  # Start MaxRT.exe 
  # Open application (monohad.mxf)
- # Hit Esc or use mouse (rectangle at the bottom) to start the DSP
+ # Hit Esc or use mouse (master phase rectangle at the bottom) to start the DSP
  # Click into one of the channels to start or use monome (see Monome64Mapping)
 
 
