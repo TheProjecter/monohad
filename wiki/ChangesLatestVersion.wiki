@@ -9,4 +9,9 @@
 = Bug fixes/Optimisations =
 
  * Quantisation is now independent of grid size and can be changed per channel
- * The monome interface for setting loops is more robust (distinct from single press)
+ * The button press behaviour has been changed back to "fire" on press rather on release, just like mlr.
+
+
+= Packaging =
+
+ * Max externals are not distributed anymore, distro very small now.
