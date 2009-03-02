@@ -3,4 +3,4 @@ open thispatcher
 include "maxi me:/Applications/Max5/myown/msp/monohad/elasticwave~.maxpat"
 include "maxi me:/Applications/Max5/myown/msp/monohad/javascript/elasticindex.js"
 include "maxi me:/Applications/Max5/myown/msp/monohad/pan.aiff"
-include "maxi me:/Applications/Max5/myown/msp/monohad/javascript/elastic.js"
+include "maxi me:/Applications/Max5/myown/msp/monohad/javascript/elastic.js"folder "maxi me:/Applications/Max5/myown/msp/monohad/pics"
