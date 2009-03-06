@@ -27,4 +27,12 @@ In order to switch back to a previously recorded pattern, please press the patte
 
 The active pattern number field will switch to the chosen pattern number, and the pattern will be played.
 
+== Dynamic Loop mode ==
 
+As pattern playback can be used simultanously with sample slicing, it is possible that the combination of two button presses (pattern + live) accidently sets a loop. Therefore, the pattern recorders switches off the ability for to set a loop for channels where related button presses have been recorded before. That means, if you have recorded a pattern which uses channels 1-3, for those channels, you won't be able to set a loop (e.g. between slice 2-4). This wouldn't make any sense anyway, as single button presses reset potential loops anyway. 
+
+For all channels, which are not part of the recorded pattern, loops can be set as usual. When the pattern is stopped, loops can be set for all channels again. There is a visual indication whether it is possible to set loops for a channel (toggle box right hand side to "normalize" button, below master channel level).
+
+== Stopping channels during pattern playback ==
+
+As a pattern can span all channels, stopping a channel doesn't stop the pattern altogether. What rather happens is that all pattern events which belong to the stopped channel are filtered and not played back anymore. If you restart the respective channel (by pressing any of the channel slice buttons on the looper page), the filtering is switched off and the recorded events for that channel are played back as usual.
