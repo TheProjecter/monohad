@@ -7,7 +7,7 @@ monohad features extensive pattern management and recording capabilities for all
 
 = Details =
 
-On every monome page, *buttons 1-4* on *row 2* are reserved for pattern management. That means that on every page (looper, stutter, filter, volume, channel fx), up to 4 patterns can be run simultanously.
+On every monome page (except the looper page), *buttons 1-4* on *row 2* are reserved for pattern management. That means that on every page (stutter, filter, volume, channel fx), up to 4 patterns can be run simultanously. *Button 4* of *row 2* on the looper page is used for channel management (see Monome64Mapping)
 
 In addition to that, each of the 4 pattern recorders is capable of storing an unlimited number of patterns (of which only one can be active at any given time). This allows for prerecording different patterns which can be switched in realtime, also quite useful for experimentation without losing the previous pattern.
 
@@ -26,7 +26,5 @@ In order to record another pattern, the pattern recorder has to be switched off 
 In order to switch back to a previously recorded pattern, please press the pattern recorder multiple times. The number of button presses minus 1 defines the pattern to be loaded. Let's say, you prerecorded three patterns and you want to recall pattern 2, you need to press the pattern recorder button three times in rapid succession. If the button is pressed more often than existing patterns, the last pattern is selected. 
 
 The active pattern number field will switch to the chosen pattern number, and the pattern will be played.
-
-
 
 
