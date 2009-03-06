@@ -8,6 +8,7 @@
  * Monome64Mapping (channel management using a virtual page)
  * PatternRecording (Looper only 3 recorders, dynamic loop mode, event filtering for stopped channels)
  * PitchShifting (extra monome page for pitchshifting) 
+ * ExternalMidiSynchronisation (synchronisation of external gear)
 
 = Bug fixes/Optimisations =
 
