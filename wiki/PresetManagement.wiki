@@ -18,3 +18,7 @@ A preset can be loaded by selecting the respective item, and the channels are im
 Whether a specific channel is reset when a preset is loaded and whether its state is stored during creation of a new preset/overwriting an existing one, depends on the *preset activation* for that channel which can be toggled via *button 7* on the channel management page (to be reached from the looper page via *button 4* of the sub control row).
 
 If the channel is not activated for presets, its state isn't changed when loading a new preset nor is it stored when creating a new preset. Whether a channel is activated for presets, is visualized by the right hand side toggle box underneath the volume faders (next to loop mode toggle box).
+
+== File Management ==
+
+The presets are stored within a file called presets.xml. If there isn't such a file, monohad starts with an empty preset list and asks you upon quitting the app where to store that file. From now on, it should automatically load presets.xml during startup.
