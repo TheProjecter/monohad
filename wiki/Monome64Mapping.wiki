@@ -31,7 +31,7 @@ The page currently active is indicated in the lower section of the patch (1..Loo
 
 The sub control row is page specific and therefore changes (like the workspace) when changing pages.
 
-  * _button 1-4_............pattern recorder (not supported yet)
+  * _button 1-4_............pattern recorder (button 4 on looper page (1) is for channel management)
   * _button 5-7_............vertical scroll (0..3 rows)
   * _button 8_..............horizontal scroll (0/8 columns)
 
@@ -65,20 +65,33 @@ The main channel volume is mapped in the same way as the stutter effect (see abo
 
 The fx bus volumes are controlled in the same way as the master channel volume. Please note that page 9 (press control row *button 1 and 2*) has to be selected for fx bus 5.
 
-===  page 10: *channel stuff* ===
+=== page 10: *pitch control* ===
 
-This page allows controlling various toggle's and bangs per channel (vertical, *row 3* = channel 1) and is mapped as follows:
+This page can be used to manipulate the pitch control per channel. As usual, the channels are mapped across the workspace (*row 2-8*), channels 7-9 can be addressed by using the vertical scroll buttons in the sub control row.
+
+The buttons per row are mapped as follows:
+
+  * _button 1_.........pitch = 1 (normal pitch)
+  * _button 2_.........pitch = 0 (no sound, obsolete ?)
+  * _button 3_.........-1 octave (pitch/2, has fade)
+  * _button 4_.........+1 octave (pitch*2, has fade)
+  * _button 5_.........-0.05,fine grained pitch control, 
+  * _button 6_.........+0.05,fine grained pitch control
+
+===  page 99: *channel stuff* ===
+
+This page is a virtual page and extends the main looper page. It can be reached by pressing *button 4* of *row 2* (sub control row), the button has to keep pressed. The work space which normally shows the loops playing currently is temporarily replaced by the current channel settings as explained below.
 
   * _button 1_.........mute (toggle)
   * _button 2_.........reverse (toggle)
   * _button 3_.........remix mode (toggle)
   * _button 4_.........random pattern (bang)
-  * _button 5_.........quantization (toggle)
+  * _button 5_.........quantization (toggle, off/last value)
   * _button 6_.........stop (bang)
-  * _button 7_.........select all (bang)
+  * _button 7_.........preset activation (toggle)
   * _button 8_.........record (toggle)
 
-All functions can also be controlled via mouse and will be reflected on the monome. _remix mode_ enables random playback of the slices and steps (based on the grid size). A new random pattern is generated with _button 4_. _Quantization_ locks slice jumps to the chosen grid, and _record_ allows live recording of external audio. This is automatically adjusted to the current loop length and relative tempo. If activating _record_, the button starts blinking which will change to a steady light as soon as recording commences.
+All functions can also be controlled via mouse and will be reflected on the monome. _remix mode_ enables random playback of the slices and steps (see RemixMode). A new random pattern is generated with _button 4_. _Quantization_ locks slice jumps to the chosen grid, and _record_ allows live recording of external audio. This is automatically adjusted to the current loop length and relative tempo. If activating _record_, the button starts blinking which will change to a steady light as soon as recording commences.
 
 
 == Additional topics ==
