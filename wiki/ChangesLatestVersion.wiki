@@ -1,4 +1,4 @@
-#summary What has changed with the latest version
+#summary What has changed with the latest version (v0.3.4)
 #labels Featured
 
 = Changes =
