@@ -6,7 +6,7 @@
  * PresetManagement
  * FileManagement (drag'n'drop over all channels)
  * Monome64Mapping (channel management using a virtual page)
- * PatternRecording (Looper only 3 recorders, dynamic loop mode)
+ * PatternRecording (Looper only 3 recorders, dynamic loop mode, event filtering for stopped channels)
  * PitchShifting (extra monome page for pitchshifting) 
 
 = Bug fixes/Optimisations =
