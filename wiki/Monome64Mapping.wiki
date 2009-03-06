@@ -88,7 +88,7 @@ This page is a virtual page and extends the main looper page. It can be reached 
   * _button 4_.........random pattern (bang)
   * _button 5_.........quantization (toggle, off/last value)
   * _button 6_.........stop (bang)
-  * _button 7_.........preset activation (toggle)
+  * _button 7_.........preset activation (toggle, see PresetManagement)
   * _button 8_.........record (toggle)
 
 All functions can also be controlled via mouse and will be reflected on the monome. _remix mode_ enables random playback of the slices and steps (see RemixMode). A new random pattern is generated with _button 4_. _Quantization_ locks slice jumps to the chosen grid, and _record_ allows live recording of external audio. This is automatically adjusted to the current loop length and relative tempo. If activating _record_, the button starts blinking which will change to a steady light as soon as recording commences.
