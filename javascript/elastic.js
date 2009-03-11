@@ -27,7 +27,7 @@ function create(val)
     {
         // parse arguments
         a = arguments[0];
-
+        
         elastic = this.patcher.newdefault(100,100,"elasticindex~", a); // check for external
         inlet_0=this.patcher.getnamed("inlet_pos");
         inlet_1=this.patcher.getnamed("inlet_loop_start");
