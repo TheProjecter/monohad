@@ -5,6 +5,7 @@
 
  * Autostart (activate toggle box next to master phase)
  * RepeaterMode
+ * Configurable TriggerModes per loop (full loop, partial loop slice......one shots vs. looped)
 
 = Bug fixes/Optimisations =
 
