@@ -1,0 +1,39 @@
+#summary How to configure the trigger modes of each channel
+#labels Featured
+
+= Introduction =
+
+monohad allows flexible triggering of the loaded samples and loops.
+
+
+= Details =
+
+
+There are three different modes to trigger loops, partial loops and slices.
+
+  * Full Sample
+  * Partial Sample
+  * Slice
+
+The trigger mode can be adjusted using the drop down menu (TRG) in the top right section of the channel window.
+
+In addition to that, for each trigger mode, it can be configured whether the chosen section should be looped or not (one-shot). The respective loop mode can be configured using the toggle next to the trigger mode drop down menu.
+
+
+== Full Sample ==
+
+This is the default mode known from mlr. Pressing a button triggers the loop from that position and plays it until the end.  If channel is in *loop mode*, the whole sample (loop) is looped. If in *one shot* mode, the sample is played until the end.
+
+This mode also allows to choose sections of the sample (keep one button pressed while pressing a second one) as well as play them reverse.
+
+== Partial Sample ==
+
+This mode is mainly useful for resampling (not fully implemented yet) parts of the sample. Two buttons have to be pressed in order to choose the respective part.
+
+The chosen part can be looped as well as played in "one-shot" mode.
+
+== Slice ==
+
+This mode allows to play single slices of the loaded sample. If pressing one button, the respective section until the next button is played. Depending on the loop mode setting, the slice is looped or played as "one-shot". 
+
+
