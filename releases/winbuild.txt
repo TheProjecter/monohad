@@ -1,1 +1,4 @@
-open thispatcherfolder "C:/Program Files/Cycling '74/Max 5.0/myown/music/monohad/MIDI"
+open thispatcher
+excludeexternals true
+include "C:/Program Files/Cycling '74/Max 5.0/myown/music/monohad/elasticwave~.maxpat"
+include "C:/Program Files/Cycling '74/Max 5.0/myown/music/monohad/javascript/elasticindex.js"include "C:/Program Files/Cycling '74/Max 5.0/myown/music/monohad/pan.aiff"folder "C:/Program Files/Cycling '74/Max 5.0/myown/music/monohad/externals"
