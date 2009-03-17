@@ -31,9 +31,20 @@ The page currently active is indicated in the lower section of the patch (1..Loo
 
 The sub control row is page specific and therefore changes (like the workspace) when changing pages.
 
-  * _button 1-4_............pattern recorder (button 4 on looper page (1) is for channel management)
-  * _button 5-7_............vertical scroll (0..3 rows)
-  * _button 8_..............horizontal scroll (0/8 columns)
+On the looper page, the buttons are mapped differently to the other pages as follows:
+
+  * _button 1_ .............toggle pattern/repeater mode (no led...pattern mode, led...repeater mode)
+  * _button 2-3_............vertical scroll (0..2 rows)
+  * _button 4_..............horizontal scroll (0/8 columns)
+  * _button 5-7_............pattern recorder 
+  * _button 8_...............channel management (see page 99 below)
+
+On the other pages, the buttons of the sub control row are mapped as follows:
+
+  * _button 1-3_............vertical scroll (0..3 rows)
+  * _button 4_..............horizontal scroll (0/8 columns)
+  * _button 5-8_............pattern recorder
+
 
 Vertical scroll depends on the number of _buttons 5-7_ pressed. The channels currently mapped to rows 3..8 of the monome are activated in the patch (yellow background), in order to reduce confusion which row belongs to which channel.
 
