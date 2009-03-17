@@ -1,6 +1,16 @@
 #summary What has changed with the latest version
 #labels Featured
 
+= Changes (v0.5)=
+
+ * Autostart (activate toggle box next to master phase)
+ * RepeaterMode
+
+= Bug fixes/Optimisations =
+
+ * changed Monome64Mapping
+
+----
 = Changes (v0.4)=
 
  * PresetManagement
