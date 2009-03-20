@@ -1,6 +1,11 @@
 #summary What has changed with the latest version
 #labels Featured
 
+= Changes (v0.6)=
+
+ * Multiple drum sequences via sub control row (see changed Monome64Mapping for drum sequencer page)
+
+----
 = Changes (v0.5)=
 
  * Autostart (activate toggle box next to master phase)
