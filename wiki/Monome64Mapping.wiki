@@ -31,13 +31,21 @@ The page currently active is indicated in the lower section of the patch (1..Loo
 
 The sub control row is page specific and therefore changes (like the workspace) when changing pages.
 
-On the looper page, the buttons are mapped differently to the other pages as follows:
+On the looper page (*page 1*), the buttons are mapped differently to the other pages as follows:
 
   * _button 1_ .............toggle pattern/repeater mode (no led...pattern mode, led...repeater mode)
   * _button 2-3_............vertical scroll (0..2 rows)
   * _button 4_..............horizontal scroll (0/8 columns)
   * _button 5-7_............pattern recorder 
   * _button 8_...............channel management (see page 99 below)
+
+On the drum sequencer page (*page 2*), the buttons are mapped differently to the other pages as follows:
+
+  * _button 1-3_............vertical scroll (0..3 rows)
+  * _button 4_..............horizontal scroll (0/8 columns)
+  * _button 5-8_............sequence selector
+
+Instead of pattern recorders, on the drum sequencer page, the last four buttons are used to switch between 4 different drum sequences in real time.  Initially, *button 5* (sequence 1) is chosen.
 
 On the other pages, the buttons of the sub control row are mapped as follows:
 
