@@ -271,10 +271,10 @@
 													"id" : "obj-18",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -288,10 +288,10 @@
 													"id" : "obj-19",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -305,10 +305,10 @@
 													"id" : "obj-20",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -322,10 +322,10 @@
 													"id" : "obj-21",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -339,10 +339,10 @@
 													"id" : "obj-22",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -356,10 +356,10 @@
 													"id" : "obj-23",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -373,10 +373,10 @@
 													"id" : "obj-24",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -390,10 +390,10 @@
 													"id" : "obj-25",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -407,10 +407,10 @@
 													"id" : "obj-26",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -424,10 +424,10 @@
 													"id" : "obj-27",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -441,10 +441,10 @@
 													"id" : "obj-28",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -458,10 +458,10 @@
 													"id" : "obj-29",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -475,10 +475,10 @@
 													"id" : "obj-30",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -492,10 +492,10 @@
 													"id" : "obj-31",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -509,10 +509,10 @@
 													"id" : "obj-32",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -526,10 +526,10 @@
 													"id" : "obj-33",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -1191,10 +1191,10 @@
 													"id" : "obj-18",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -1208,10 +1208,10 @@
 													"id" : "obj-19",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -1225,10 +1225,10 @@
 													"id" : "obj-20",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -1242,10 +1242,10 @@
 													"id" : "obj-21",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -1259,10 +1259,10 @@
 													"id" : "obj-22",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -1276,10 +1276,10 @@
 													"id" : "obj-23",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -1293,10 +1293,10 @@
 													"id" : "obj-24",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -1310,10 +1310,10 @@
 													"id" : "obj-25",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -1327,10 +1327,10 @@
 													"id" : "obj-26",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -1344,10 +1344,10 @@
 													"id" : "obj-27",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -1361,10 +1361,10 @@
 													"id" : "obj-28",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -1378,10 +1378,10 @@
 													"id" : "obj-29",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -1395,10 +1395,10 @@
 													"id" : "obj-30",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -1412,10 +1412,10 @@
 													"id" : "obj-31",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -1429,10 +1429,10 @@
 													"id" : "obj-32",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -1446,10 +1446,10 @@
 													"id" : "obj-33",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -2044,9 +2044,9 @@
 									"fontsize" : 12.0,
 									"patcher" : 									{
 										"fileversion" : 1,
-										"rect" : [ 0.0, 0.0, 0.0, -26.0 ],
+										"rect" : [ 25.0, 69.0, 800.0, 574.0 ],
 										"bglocked" : 0,
-										"defrect" : [ 0.0, 0.0, 0.0, -26.0 ],
+										"defrect" : [ 25.0, 69.0, 800.0, 574.0 ],
 										"openrect" : [ 0.0, 0.0, 0.0, 0.0 ],
 										"openinpresentation" : 0,
 										"default_fontsize" : 12.0,
@@ -2111,10 +2111,10 @@
 													"id" : "obj-18",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -2128,10 +2128,10 @@
 													"id" : "obj-19",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -2145,10 +2145,10 @@
 													"id" : "obj-20",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -2162,10 +2162,10 @@
 													"id" : "obj-21",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -2179,10 +2179,10 @@
 													"id" : "obj-22",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -2196,10 +2196,10 @@
 													"id" : "obj-23",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -2213,10 +2213,10 @@
 													"id" : "obj-24",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -2230,10 +2230,10 @@
 													"id" : "obj-25",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -2247,10 +2247,10 @@
 													"id" : "obj-26",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -2264,10 +2264,10 @@
 													"id" : "obj-27",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -2281,10 +2281,10 @@
 													"id" : "obj-28",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -2298,10 +2298,10 @@
 													"id" : "obj-29",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -2315,10 +2315,10 @@
 													"id" : "obj-30",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -2332,10 +2332,10 @@
 													"id" : "obj-31",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -2349,10 +2349,10 @@
 													"id" : "obj-32",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -2366,10 +2366,10 @@
 													"id" : "obj-33",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -2978,7 +2978,6 @@
 										"toolbarvisible" : 1,
 										"boxanimatetime" : 200,
 										"imprint" : 0,
-										"visible" : 1,
 										"boxes" : [ 											{
 												"box" : 												{
 													"maxclass" : "newobj",
@@ -3031,10 +3030,10 @@
 													"id" : "obj-18",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -3048,10 +3047,10 @@
 													"id" : "obj-19",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -3065,10 +3064,10 @@
 													"id" : "obj-20",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -3082,10 +3081,10 @@
 													"id" : "obj-21",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -3099,10 +3098,10 @@
 													"id" : "obj-22",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -3116,10 +3115,10 @@
 													"id" : "obj-23",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -3133,10 +3132,10 @@
 													"id" : "obj-24",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -3150,10 +3149,10 @@
 													"id" : "obj-25",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -3167,10 +3166,10 @@
 													"id" : "obj-26",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -3184,10 +3183,10 @@
 													"id" : "obj-27",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -3201,10 +3200,10 @@
 													"id" : "obj-28",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -3218,10 +3217,10 @@
 													"id" : "obj-29",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -3235,10 +3234,10 @@
 													"id" : "obj-30",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -3252,10 +3251,10 @@
 													"id" : "obj-31",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -3269,10 +3268,10 @@
 													"id" : "obj-32",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -3286,10 +3285,10 @@
 													"id" : "obj-33",
 													"fontname" : "Arial",
 													"outlettype" : [ "int", "bang" ],
-													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
-													"triscale" : 0.9,
 													"fontsize" : 9.0,
-													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ]
+													"htextcolor" : [ 0.870588, 0.870588, 0.870588, 1.0 ],
+													"bgcolor" : [ 0.866667, 0.866667, 0.866667, 1.0 ],
+													"triscale" : 0.9
 												}
 
 											}
@@ -4343,25 +4342,13 @@
 						"boxes" : [ 							{
 								"box" : 								{
 									"maxclass" : "newobj",
-									"text" : "print #1_resetled2",
-									"numinlets" : 1,
-									"numoutlets" : 0,
-									"patching_rect" : [ 262.0, 340.0, 107.0, 20.0 ],
-									"id" : "obj-6",
-									"fontname" : "Arial",
-									"fontsize" : 12.0
-								}
-
-							}
-, 							{
-								"box" : 								{
-									"maxclass" : "newobj",
-									"text" : "print #1_resetled1",
-									"numinlets" : 1,
-									"numoutlets" : 0,
-									"patching_rect" : [ 262.0, 296.0, 107.0, 20.0 ],
+									"text" : "clip 0 1",
+									"numinlets" : 3,
+									"numoutlets" : 1,
+									"patching_rect" : [ 100.0, 278.0, 49.0, 20.0 ],
 									"id" : "obj-3",
 									"fontname" : "Arial",
+									"outlettype" : [ "" ],
 									"fontsize" : 12.0
 								}
 
@@ -4441,7 +4428,7 @@
 									"text" : "s drummer_led",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 50.0, 324.0, 91.0, 20.0 ],
+									"patching_rect" : [ 50.0, 353.0, 91.0, 20.0 ],
 									"id" : "obj-72",
 									"fontname" : "Arial",
 									"fontsize" : 12.0
@@ -4454,7 +4441,7 @@
 									"text" : "unpack 0 0",
 									"numinlets" : 1,
 									"numoutlets" : 2,
-									"patching_rect" : [ 50.0, 262.0, 69.0, 20.0 ],
+									"patching_rect" : [ 50.0, 247.0, 69.0, 20.0 ],
 									"id" : "obj-71",
 									"fontname" : "Arial",
 									"outlettype" : [ "int", "int" ],
@@ -4468,7 +4455,7 @@
 									"text" : "pack 0 0 0",
 									"numinlets" : 3,
 									"numoutlets" : 1,
-									"patching_rect" : [ 50.0, 296.0, 69.0, 20.0 ],
+									"patching_rect" : [ 50.0, 322.0, 69.0, 20.0 ],
 									"id" : "obj-70",
 									"fontname" : "Arial",
 									"outlettype" : [ "" ],
@@ -4532,6 +4519,24 @@
 							}
  ],
 						"lines" : [ 							{
+								"patchline" : 								{
+									"source" : [ "obj-3", 0 ],
+									"destination" : [ "obj-70", 2 ],
+									"hidden" : 0,
+									"midpoints" : [  ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"source" : [ "obj-71", 1 ],
+									"destination" : [ "obj-3", 0 ],
+									"hidden" : 0,
+									"midpoints" : [  ]
+								}
+
+							}
+, 							{
 								"patchline" : 								{
 									"source" : [ "obj-1", 0 ],
 									"destination" : [ "obj-71", 0 ],
@@ -4605,15 +4610,6 @@
 							}
 , 							{
 								"patchline" : 								{
-									"source" : [ "obj-71", 1 ],
-									"destination" : [ "obj-70", 2 ],
-									"hidden" : 0,
-									"midpoints" : [  ]
-								}
-
-							}
-, 							{
-								"patchline" : 								{
 									"source" : [ "obj-71", 0 ],
 									"destination" : [ "obj-70", 0 ],
 									"hidden" : 0,
@@ -4644,25 +4640,7 @@
 									"source" : [ "obj-68", 1 ],
 									"destination" : [ "obj-70", 1 ],
 									"hidden" : 0,
-									"midpoints" : [ 477.5, 288.0, 84.5, 288.0 ]
-								}
-
-							}
-, 							{
-								"patchline" : 								{
-									"source" : [ "obj-1", 0 ],
-									"destination" : [ "obj-3", 0 ],
-									"hidden" : 0,
-									"midpoints" : [  ]
-								}
-
-							}
-, 							{
-								"patchline" : 								{
-									"source" : [ "obj-70", 0 ],
-									"destination" : [ "obj-6", 0 ],
-									"hidden" : 0,
-									"midpoints" : [  ]
+									"midpoints" : [ 477.5, 309.0, 84.5, 309.0 ]
 								}
 
 							}
