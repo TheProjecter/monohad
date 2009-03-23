@@ -2,6 +2,7 @@ excludeexternals true
 open thispatcher
 excludeexternals true
 include "maxi me:/Applications/Max5/myown/msp/monohad/elasticwave~.maxpat"
+include "maxi me:/Applications/Max5/myown/msp/monohad/javascript/elastic.js"
 include "maxi me:/Applications/Max5/myown/msp/monohad/javascript/elasticindex.js"
 folder "maxi me:/Applications/Max5/myown/msp/monohad/externals"
-include "maxi me:/Applications/Max5/myown/msp/monohad/pan.aiff"
+include "maxi me:/Applications/Max5/myown/msp/monohad/pan.aiff"folder "maxi me:/Applications/Max5/myown/msp/monohad/pics"
