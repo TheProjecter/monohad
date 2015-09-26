@@ -1,0 +1,21 @@
+# Introduction #
+
+As monohad sessions can be quite complicated to setup, it is possible to store them as presets and recall them during a live session
+
+
+# Details #
+
+The preset management interface is located in the bottom middle section (below the midi settings). Initially, the preset drop down list is empty apart from "none" which is initially loaded by default. If a presets.xml file exists within your search path, it is loaded and the slot names are displayed within the drop down list.
+
+A preset can be loaded by selecting the respective item, and the channels are immediately set to the settings within the presets. A new preset can be stored by pressing the left button underneath the drop down list ("New"). The currently loaded preset can be overwritten with the button on the right hand side ("Ovrwrte"). The currently loaded preset can be renamed by pressing "name" next to it.
+
+
+## Partial Recall/Store ##
+
+Whether a specific channel is reset when a preset is loaded and whether its state is stored during creation of a new preset/overwriting an existing one, depends on the **preset activation** for that channel which can be toggled via **button 7** on the channel management page (to be reached from the looper page via **button 4** of the sub control row).
+
+If the channel is not activated for presets, its state isn't changed when loading a new preset nor is it stored when creating a new preset. Whether a channel is activated for presets, is visualized by the right hand side toggle box underneath the volume faders (next to loop mode toggle box).
+
+## File Management ##
+
+The presets are stored within a file called presets.xml. If there isn't such a file, monohad starts with an empty preset list and asks you upon quitting the app where to store that file. From now on, it should automatically load presets.xml during startup.

@@ -1,0 +1,32 @@
+# Introduction #
+
+The application is fully contained and can be used with Max5 runtime (available here: http://www.cycling74.com/downloads/max5). Please note that the comments only apply to the collective version (monohad.mxf) and not the source patches.
+
+There is an issue with Runtime not being able to search recursively into sub directories which leads to patchers not being found.
+
+
+# Details #
+
+After you downloaded the latest zip and installed Max Runtime, it should contain the following files:
+
+  1. **monohad.mxf** --> the main application
+  1. **/externals**  --> additional externals required
+  1. **/MIDI**       --> MIDI mapping files
+
+In order to get started, the following activities need to be undertaken.
+
+  1. Create LOOPS folder within Max5 application directory and put your loops there
+  1. Create SAMPLES folder within Max5 application directory and put your drumsequencer samples there
+  1. copy the externals from the externals folder (see above) to the msp-externals folder within the Cycling'74 subdirectory of your Max5 application directory
+  1. copy the MIDI folder (see above) from the archive to your Max5 application directory
+  1. Start MaxRT.exe
+  1. Open application (monohad.mxf)
+  1. Make sure overdrive is enabled (see Edit menu)
+  1. Hit Esc or use mouse (master phase rectangle at the bottom) to start the DSP
+  1. Click into one of the channels to start or use monome (see Monome64Mapping)
+
+
+On Windows, there have been consistent errors when starting the monohad.mxf directly with right-click/context menu. Therefore, I would recommend to rather start MaxRT.exe upfront as explained above.
+
+If the application isn't working (no audio etc.), just drop me a line under post.monome.org or open an issue here --> http://code.google.com/p/monohad/issues/list
+

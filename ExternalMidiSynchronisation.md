@@ -1,0 +1,7 @@
+# Introduction #
+
+monohad generates MIDI beat clock to synchronize external devices.
+
+# Details #
+
+For synchronisation of external devices, the master clock of monohad is synced to **midi port a** (accessible via Max Runtime Midi Setup). Just assign the abbreviation **a** to the Midi output device you want to synchronize.
